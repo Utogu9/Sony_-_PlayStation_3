@@ -12,3 +12,5 @@ Sony PlayStation 3 artwork and metadata for [OpenCabinet-BDD](https://github.com
 - Shared metadata: [Wikidata](https://www.wikidata.org/) contributors ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)).
 
 Sources and available contributor credits are retained in `catalog.json` and, where present, `console_artwork.json`. Artwork belongs to its respective rights holders; this repository does not assign it a new license.
+
+- Selected game descriptions and infobox metadata: [Wikipedia contributors](WIKIPEDIA-CREDITS.md), under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
